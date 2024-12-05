@@ -1,16 +1,31 @@
-## Hi there 👋
+# Présentation  
 
-<!--
-**philougoatesque/philougoatesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heyyy salut 👋, je suis **Philou** !  
+Développeur passionné, tu trouveras sur mon GitHub certains de mes travaux (si je décide de les publier 😉) que j'estime intéressants et utiles pour le monde de l'open source.  
 
-Here are some ideas to get you started:
+Je travaille également sur un projet nommé **ZenithMC**. Certains de nos plugins ou morceaux de code seront publiés soit ici, soit sur l’organisation GitHub de [ZenithMC](https://github.com/ZenithMCDev). 
+*"Tout groupe humain tire sa richesse de la communication, de l’entraide et de la solidarité, visant un but commun : l’épanouissement de chacun dans le respect des différences."*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Compétences Techniques
+
+J'utilise souvent les technologies suivantes dans mes projets : 
+
+- **Java**
+- **Kotlin**
+- **C++**, **C**
+- **HTML**, **CSS**
+
+- **MongoDB**
+- **Redis**
+
+- **Docker**
+- **NGINX**
+- **Cloudflare**
+
+- **Maven**
+- **Git**
+- **IntelliJ IDEA**
+- **Linux**
+
